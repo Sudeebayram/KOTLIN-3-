@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587858451652",
+    "project_id": "jcuygulama",
+    "storage_bucket": "jcuygulama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587858451652:android:3c821f2c02b967a4623d91",
+        "android_client_info": {
+          "package_name": "com.example.uygulama12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlswxyUcwpvXzQHL-gsSZNTDU8qY_T9tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
